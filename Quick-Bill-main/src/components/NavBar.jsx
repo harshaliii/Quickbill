@@ -19,7 +19,7 @@ const NavBar = () => {
                         <li className="font-medium"><Link to="/contact">Contact</Link></li>
                     </ul>
                 </div>
-                <Link onClick={scrollToTop} to='/' className="btn btn-ghost text-xl">ExpressBills</Link>
+                <Link onClick={scrollToTop} to='/' className="btn btn-ghost text-xl">QuickBill</Link>
             </div>
             <div className="navbar-center hidden lg:flex">
 
