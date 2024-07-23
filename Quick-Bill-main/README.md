@@ -12,4 +12,4 @@ cd express-bills
 
 
 Run the application:
-```npm start```
+```npm run dev```
