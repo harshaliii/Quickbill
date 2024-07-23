@@ -3,7 +3,7 @@
 
 1.Clone the repository:
 ```
-git clone https://github.com/yourusername/express-bills.git
+git clone https://github.com/harshaliii/Quickbill/tree/main/Quick-Bill-main
 cd express-bills
 ```
 
